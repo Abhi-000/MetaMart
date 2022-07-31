@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e1c84ae59d946a4944ca444426297b, type: 3}
+  m_Name: atlas_1 2
+  m_EditorClassIdentifier: 
+  entries:
+  - _name: inputTxt
+    _assetPath: 
+    _pixelRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1024
+      height: 1024
+    _uvRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    _isTrimmed: 0
+  - _name: ca8fa187-a203-48bd-8d4b-cd5c674e50fa.glb ca8fa187-a203-48bd-8d4b-cd5c674e50fa.glb_0
+    _assetPath: 
+    _pixelRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 512
+      height: 512
+    _uvRect:
+      serializedVersion: 2
+      x: 0
+      y: 0.5
+      width: 0.5
+      height: 0.5
+    _isTrimmed: 0
+  texture: {fileID: 2800000, guid: e410c142c18b120419f1ab28fc501076, type: 3}
+  atlasName: atlas_1
